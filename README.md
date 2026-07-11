@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Suchit+Deshmukh;DevOps+%26+Cloud+Engineer;Software+Developer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+GitHub+Actions+%7C+Jenkins;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 <h1 align="center">Hi 👋, I'm Suchit Deshmukh</h1>
 
 <h3 align="center">
