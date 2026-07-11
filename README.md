@@ -1,37 +1,53 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=DevOps+%26+Cloud+Engineer;Software+Developer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+GitHub+Actions+%7C+Jenkins" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Suchit%20Deshmukh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
 </p>
-<h1 align="center">👋 Hi, I'm Suchit Deshmukh</h1>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Cloud+Engineer;Software+Developer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+GitHub+Actions+%7C+Jenkins;Python+Developer"/>
+
+</p>
+
+<h1 align="center">
+👋 Hi, I'm Suchit Deshmukh
+</h1>
 
 <h3 align="center">
-🚀 DevOps & Cloud Engineer | Software Developer
+🚀 DevOps Engineer • Cloud Engineer • Software Developer
 </h3>
 
 <p align="center">
 
-<p align="center">
-Building secure, scalable cloud infrastructure and production-ready software through DevOps, Cloud, Kubernetes, Automation, and Python.
+Building secure, scalable cloud infrastructure and production-ready software through DevOps, Cloud Computing, Kubernetes, Automation and Python.
+
 </p>
 
 ---
 
 # 💡 About Me
 
-- 🚀 Building production-grade DevOps, Cloud & Software Engineering projects
-- 🌱 Currently learning **Production DevOps, Kubernetes, GitOps, DevSecOps, AI-powered DevOps & Cloud Automation**
-- ☁️ Hands-on with **AWS, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, Argo CD, Prometheus, Grafana & Trivy**
-- 💻 Backend Development using **Python, Django, Flask, REST APIs, MySQL & SQLite**
-- ⚙️ Automating complete CI/CD pipelines
-- 🛡️ Implementing secure containerization & DevSecOps best practices
-- ☸ Deploying applications on Kubernetes & Amazon EKS
-- 🎯 Open to **DevOps Engineer | Cloud Engineer | Software Developer** opportunities
+- 🚀 Passionate about building Production-Ready DevOps & Cloud Solutions
+- ☁️ Hands-on experience with AWS Cloud Services
+- 🐳 Containerizing applications using Docker
+- ☸️ Deploying scalable applications on Kubernetes & Amazon EKS
+- ⚙️ Building automated CI/CD Pipelines
+- 🔄 Implementing GitOps using Argo CD
+- 🛡️ Practicing DevSecOps using Trivy
+- 📊 Monitoring infrastructure with Prometheus & Grafana
+- 💻 Backend Development using Python, Django & Flask
+- 🌱 Currently learning Platform Engineering, Production Kubernetes and AI for DevOps
+- 🎯 Open to DevOps Engineer, Cloud Engineer and Software Developer opportunities
 
 ---
 
 # ☁️ DevOps & Cloud Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins,linux,git,bash,ansible,prometheus,grafana,python" />
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins,linux,git,bash,ansible,prometheus,grafana,python"/>
+
 </p>
 
 ---
@@ -39,83 +55,122 @@ Building secure, scalable cloud infrastructure and production-ready software thr
 # 💻 Software Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,flask,mysql,sqlite,html,css,vscode,postman" />
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,mysql,sqlite,html,css,js,vscode,postman"/>
+
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### ☁️ Terraform + Kubernetes + GitHub Actions
-Production-ready DevOps CI pipeline integrating Docker, Terraform, Kubernetes, GitHub Actions, and Trivy.
+## ☁️ Terraform + Kubernetes + GitHub Actions
+
+Production-ready DevOps pipeline integrating:
+
+- Terraform
+- Docker
+- Kubernetes
+- GitHub Actions
+- Trivy
+- CI/CD Automation
 
 ---
 
-### ☸️ Amazon EKS Deployment
-Production Kubernetes deployment on AWS EKS using Docker containers.
+## ☸️ Amazon EKS Deployment
+
+Production Kubernetes deployment on AWS EKS using Docker containers with scalable architecture.
 
 ---
 
-### 🔄 GitOps with Argo CD
-Continuous Kubernetes deployment with Auto Sync & Self Healing.
+## 🔄 GitOps with Argo CD
+
+Continuous Kubernetes deployment with:
+
+- Auto Sync
+- Self Healing
+- GitOps Workflow
+- Production Deployment
 
 ---
 
-### 📊 Kubernetes Monitoring Stack
-Prometheus + Grafana monitoring with production dashboards.
+## 📊 Kubernetes Monitoring Stack
+
+Production monitoring using:
+
+- Prometheus
+- Grafana
+- Alerting
+- Dashboards
 
 ---
 
-### 🌐 Django Projects
-Containerized Python Django applications with CI/CD.
+## 🌐 Django & Python Projects
+
+Containerized Python applications with:
+
+- Docker
+- CI/CD
+- REST APIs
+- Production Deployment
 
 ---
 
-# 🛠️ DevOps Workflow
+# 🛠 DevOps Workflow
 
-```
+```text
 Developer
-     │
+    │
 Git Push
-     │
+    │
 GitHub Actions
-     │
-Build Docker Image
-     │
-Trivy Security Scan
-     │
-Push Docker Image
-     │
-Terraform Validate
-     │
+    │
+Docker Build
+    │
+Trivy Scan
+    │
+Docker Hub
+    │
+Terraform
+    │
+Amazon AWS
+    │
 Kubernetes
-     │
+    │
 Argo CD
-     │
+    │
 Amazon EKS
-     │
-Prometheus + Grafana
+    │
+Prometheus
+    │
+Grafana
 ```
 
 ---
 
+---
 
 # 📊 GitHub Statistics
 
-<h3 align="center">📊 GitHub Analytics</h3>
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suchitdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchitdev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Suchitdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchitdev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 # 🔥 GitHub Streak
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Suchitdev&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=Suchitdev&theme=tokyonight&hide_border=true" />
+---
 
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suchitdev&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -125,157 +180,6 @@ Prometheus + Grafana
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Suchitdev&theme=tokyonight&no-frame=true&row=2&column=4" />
 </p>
-
----
-
-# 📫 Connect With Me
-
-<p>
-
-💼 LinkedIn  
-https://www.linkedin.com/in/suchit-deshmukh-282a942b6/
-
-🌐 Portfolio  
-https://suchitdev.github.io/
-
-📧 Email  
-Suchitd1008@gmail.com
-
-</p>
-
----
-
-# 🎯 Areas of Interest
-
-- DevOps Engineering
-- Cloud Computing
-- DevSecOps
-- Infrastructure as Code
-- Kubernetes
-- GitOps
-- CI/CD Automation
-- Cloud Security
-- Software Engineering
-- Backend Development
-- Site Reliability Engineering (SRE)
-
----
-
-<h3 align="center">
-
-⭐ Always Learning • Always Building • Always Improving ⭐
-
-</h3>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suchitdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchitdev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Suchitdev&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suchitdev&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Suchitdev&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 🛠️ DevOps & Cloud Tools
-
-<table align="center">
-
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=aws" width="60"/><br>AWS
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="60"/><br>Docker
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="60"/><br>Kubernetes
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=terraform" width="60"/><br>Terraform
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=githubactions" width="60"/><br>GitHub Actions
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=jenkins" width="60"/><br>Jenkins
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=ansible" width="60"/><br>Ansible
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=linux" width="60"/><br>Linux
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="60"/><br>Python
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=django" width="60"/><br>Django
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=flask" width="60"/><br>Flask
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="60"/><br>Git
-</td>
-
-</tr>
-
-</table>
 
 ---
 
@@ -291,26 +195,17 @@ Suchitd1008@gmail.com
 ✅ GitHub Actions
 ✅ Kubernetes
 ✅ Amazon EKS
+✅ Jenkins
 ✅ Argo CD
 ✅ Prometheus
 ✅ Grafana
 ✅ Trivy
-✅ Jenkins
 🟡 Ansible Automation
 🟡 Production GitOps
 🟡 Multi-Cluster Kubernetes
 🟡 Platform Engineering
 🟡 AI for DevOps
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-🚀 Coming Soon
-
-</p>
+```
 
 ---
 
@@ -324,65 +219,12 @@ Suchitd1008@gmail.com
 
 - ✅ Master Production Kubernetes
 - ✅ Build Enterprise DevOps Pipelines
+- ✅ Master GitOps with Argo CD
 - ✅ Learn Advanced Ansible Automation
 - ✅ Deploy Production Applications on AWS
-- ✅ Master GitOps with Argo CD
 - ✅ Implement DevSecOps Best Practices
-- ✅ Earn AWS Cloud Certifications
 - ✅ Contribute to Open Source Projects
 - ✅ Become a Production DevOps Engineer
-
----
-
-# 📂 Repository Highlights
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| ☁ Terraform + Kubernetes + GitHub Actions | Production CI pipeline with Docker, Trivy & Terraform | Terraform, Docker, GitHub Actions |
-| ☸ Amazon EKS Deployment | Kubernetes deployment on AWS | AWS, EKS, Kubernetes |
-| 🔄 GitOps with Argo CD | Continuous Deployment & Self-Healing | Argo CD, Kubernetes |
-| 📊 Monitoring Stack | Prometheus & Grafana Monitoring | Prometheus, Grafana |
-| 🌐 Django Projects | Backend development with Docker | Python, Django, Docker |
-| 💼 Portfolio Website | Personal developer portfolio | HTML, CSS, GitHub Pages |
-
----
-
-# 📈 Professional Focus
-
-✔ DevOps Engineering
-
-✔ Cloud Computing
-
-✔ Infrastructure as Code
-
-✔ Kubernetes Administration
-
-✔ GitOps
-
-✔ DevSecOps
-
-✔ CI/CD Automation
-
-✔ Container Security
-
-✔ Backend Development
-
-✔ Software Engineering
-
-✔ Site Reliability Engineering (SRE)
-
----
-
-# 📚 Currently Exploring
-
-- 🤖 AI for DevOps
-- ☁ Multi-Cloud Architecture
-- ☸ Production Kubernetes
-- 🚀 Platform Engineering
-- 📦 Helm Charts
-- 🔄 Advanced GitOps
-- ⚙ Enterprise CI/CD
-- 🔐 Cloud Security
 
 ---
 
@@ -424,11 +266,18 @@ Suchitd1008@gmail.com
 
 ---
 
+# 🐍 Contribution Snake
+
+> 🚀 **Coming Soon!**
+
+---
+
 # 💙 Support
 
 If you like my work, consider giving a ⭐ to my repositories.
 
 ---
+
 <div align="center">
 
 ## 🚀 Thanks for visiting my profile!
@@ -438,3 +287,4 @@ If you like my work, consider giving a ⭐ to my repositories.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
+
