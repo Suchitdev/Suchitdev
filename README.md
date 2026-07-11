@@ -168,3 +168,272 @@ Suchitd1008@gmail.com
 ⭐ Always Learning • Always Building • Always Improving ⭐
 
 </h3>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suchitdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchitdev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Suchitdev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suchitdev&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Suchitdev&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🛠️ DevOps & Cloud Tools
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws" width="60"/><br>AWS
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="60"/><br>Docker
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="60"/><br>Kubernetes
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=terraform" width="60"/><br>Terraform
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=githubactions" width="60"/><br>GitHub Actions
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=jenkins" width="60"/><br>Jenkins
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ansible" width="60"/><br>Ansible
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="60"/><br>Linux
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="60"/><br>Python
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=django" width="60"/><br>Django
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flask" width="60"/><br>Flask
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="60"/><br>Git
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📚 Current Learning Roadmap
+
+```text
+✅ Linux
+✅ Git & GitHub
+✅ Python
+✅ Docker
+✅ AWS
+✅ Terraform
+✅ GitHub Actions
+✅ Kubernetes
+✅ Amazon EKS
+✅ Argo CD
+✅ Prometheus
+✅ Grafana
+✅ Trivy
+✅ Jenkins
+🟡 Ansible Automation
+🟡 Production GitOps
+🟡 Multi-Cluster Kubernetes
+🟡 Platform Engineering
+🟡 AI for DevOps
+
+---
+
+# 🐍 Contribution Snake
+
+> **After creating the Snake GitHub Action (I'll help you with that later), uncomment the image below.**
+
+<!--
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Suchitdev/Suchitdev/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+-->
+
+---
+
+# 📜 DevOps Philosophy
+
+> **"Automate repetitive tasks, secure every deployment, monitor everything, and continuously improve."**
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Production Kubernetes
+- ✅ Build Enterprise DevOps Pipelines
+- ✅ Learn Advanced Ansible Automation
+- ✅ Deploy Production Applications on AWS
+- ✅ Master GitOps with Argo CD
+- ✅ Implement DevSecOps Best Practices
+- ✅ Earn AWS Cloud Certifications
+- ✅ Contribute to Open Source Projects
+- ✅ Become a Production DevOps Engineer
+
+---
+
+# 📂 Repository Highlights
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| ☁ Terraform + Kubernetes + GitHub Actions | Production CI pipeline with Docker, Trivy & Terraform | Terraform, Docker, GitHub Actions |
+| ☸ Amazon EKS Deployment | Kubernetes deployment on AWS | AWS, EKS, Kubernetes |
+| 🔄 GitOps with Argo CD | Continuous Deployment & Self-Healing | Argo CD, Kubernetes |
+| 📊 Monitoring Stack | Prometheus & Grafana Monitoring | Prometheus, Grafana |
+| 🌐 Django Projects | Backend development with Docker | Python, Django, Docker |
+| 💼 Portfolio Website | Personal developer portfolio | HTML, CSS, GitHub Pages |
+
+---
+
+# 📈 Professional Focus
+
+✔ DevOps Engineering
+
+✔ Cloud Computing
+
+✔ Infrastructure as Code
+
+✔ Kubernetes Administration
+
+✔ GitOps
+
+✔ DevSecOps
+
+✔ CI/CD Automation
+
+✔ Container Security
+
+✔ Backend Development
+
+✔ Software Engineering
+
+✔ Site Reliability Engineering (SRE)
+
+---
+
+# 📚 Currently Exploring
+
+- 🤖 AI for DevOps
+- ☁ Multi-Cloud Architecture
+- ☸ Production Kubernetes
+- 🚀 Platform Engineering
+- 📦 Helm Charts
+- 🔄 Advanced GitOps
+- ⚙ Enterprise CI/CD
+- 🔐 Cloud Security
+
+---
+
+# 🏅 Certifications (In Progress)
+
+- ☁ AWS Cloud
+- ☸ Kubernetes
+- 🏗 Terraform
+- 🐳 Docker
+- ⚙ GitHub Actions
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/suchit-deshmukh-282a942b6/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://suchitdev.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:Suchitd1008@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💙 Support
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+---
+
+<div align="center">
+
+## 🚀 Thanks for visiting my profile!
+
+### ⭐ Always Learning • Always Building • Always Improving ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
