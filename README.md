@@ -1,13 +1,13 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=DevOps+%26+Cloud+Engineer;Software+Developer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+GitHub+Actions+%7C+Jenkins" />
 </p>
-<h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Suchit+Deshmukh"/>
-</h1>
+<h1 align="center">👋 Hi, I'm Suchit Deshmukh</h1>
 
 <h3 align="center">
 🚀 DevOps & Cloud Engineer | Software Developer
 </h3>
+
+<p align="center">
 
 <p align="center">
 Building secure, scalable cloud infrastructure and production-ready software through DevOps, Cloud, Kubernetes, Automation, and Python.
