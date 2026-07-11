@@ -99,9 +99,10 @@ Prometheus + Grafana
 
 ---
 
+
 # 📊 GitHub Statistics
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
 
@@ -114,7 +115,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchitdev&la
 </p>
 
 ---
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -127,13 +127,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchitdev&la
 
 # 🏆 GitHub Trophies
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Suchitdev&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img
+src="https://github-profile-trophy.vercel.app/?username=Suchitdev&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
+
 ---
 
 # 📫 Connect With Me
