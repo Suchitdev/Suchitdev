@@ -101,11 +101,15 @@ Prometheus + Grafana
 
 # 📊 GitHub Statistics
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Suchitdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Suchitdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchitdev&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchitdev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -123,12 +127,13 @@ Prometheus + Grafana
 
 # 🏆 GitHub Trophies
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Suchitdev&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Suchitdev&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
-
 ---
 
 # 📫 Connect With Me
@@ -309,15 +314,15 @@ Suchitd1008@gmail.com
 
 # 🐍 Contribution Snake
 
-> **After creating the Snake GitHub Action (I'll help you with that later), uncomment the image below.**
+ **After creating the Snake GitHub Action (I'll help you with that later), uncomment the image below.**
 
-<!--
+<h2 align="center">🐍 Contribution Snake</h2>
+
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Suchitdev/Suchitdev/output/github-contribution-grid-snake-dark.svg"/>
+Coming Soon 🚀
 
 </p>
--->
 
 ---
 
@@ -393,34 +398,39 @@ Suchitd1008@gmail.com
 
 ---
 
-# 🏅 Certifications (In Progress)
+# 🏅 Certifications
 
-- ☁ AWS Cloud
-- ☸ Kubernetes
-- 🏗 Terraform
+- ☁️ AWS Academy Cloud Foundations
+- 🚀 DevOps Fundamentals (Simplilearn SkillUp)
+- 🐍 Google IT Automation with Python (Coursera)
+- 💻 Python Development Course
+- 🤖 IBM SkillBuild: Artificial Intelligence
+- ☸️ Kubernetes
+- 🏗️ Terraform
 - 🐳 Docker
-- ⚙ GitHub Actions
+- ⚙️ GitHub Actions
 
 ---
 
 # 🌐 Connect
 
+<h2 align="center">🌐 Connect With Me</h2>
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/suchit-deshmukh-282a942b6/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://suchitdev.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:Suchitd1008@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
-
 ---
 
 # 💙 Support
